@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+"Foody Blinders" is a Cafe Management website developed using Ruby on Rails platform. This is a web application and a Software as a Service (SAAS) delivery model. In this application, you can signup, order food, manage the application signed in as owner, track orders placed by customers and much more..
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+LINK: http://foody-blinders.herokuapp.com/
